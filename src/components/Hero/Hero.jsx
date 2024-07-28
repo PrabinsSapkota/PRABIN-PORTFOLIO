@@ -32,7 +32,7 @@ export default function Hero() {
           <h1  id="heading" className="text-4xl text-pink-500 flex items-center mt-5 max-sm:text-3xl opacity-0">
             HI! I'M PRABIN SAPKOTA.
           </h1>
-          <p id="mid" className="text-3xl text-pink-500 mt-5 max-sm:text-2xl opacity-0">Frontend Developer</p>
+          <p id="mid" className="text-3xl text-pink-500 mt-5 max-sm:text-2xl opacity-0">Full Stack Software Engineer</p>
           <p id="last" className="text-2xl text-pink-300 text-justify my-5 max-sm:text-xl opacity-1">
             High level experience in web design and development, consistently delivering top-quality work. Passionate about creating intuitive and engaging user experiences that delight users and drive business success.
           </p>
